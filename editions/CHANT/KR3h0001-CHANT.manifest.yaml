@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR3h0001/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR3h0001/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 古畫品錄一卷
+  identifiers:
+    krp: KR3h0001
+  tags:
+    tls-dates: dat04500
+    kr-categories: KR3h
+  source:
+    repository: tls-texts
+    path: data/tls/KR3h0001.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR3h0001_001-CHANT.yaml, hash: 'sha256:d96141de56759bb950e13b6d8e23277d46ec0b060fb0b396c836fda6f218dde5'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3h0001_001-CHANT.markers.yaml, hash: 'sha256:52ef2eed0f739fcf4eb677f1a70c9d2c18cf609610daf42a5e0588bea03f3d06'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3h0001_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 907
+  label: 第一品五人
+  type: section
+  level: 1
+hash: sha256:406fc265a52431ada0c43bb29f90a289fcf02d0b35aa7102959945ceab922a54

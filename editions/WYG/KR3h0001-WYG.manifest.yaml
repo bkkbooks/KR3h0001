@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR3h0001/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3h0001/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 古畫品錄
+  date: '2015-08-24 23:13:29.823518'
+  source:
+    repository: kanripo
+    path: KR3h0001
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3h0001_000-WYG.yaml, hash: 'sha256:12f38c0efe56a0655a60cc52739aaa00b63adca995701e0975de6e632a5db7bb'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3h0001_000-WYG.markers.yaml, hash: 'sha256:b1f8d43e0a56fe3f6367a9d939f953f606b2a1c370be9c291773750a3131e59f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3h0001_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 817
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3h0001_WYG_000-5a
+    span:
+    - body
+    - 817
+    - 1964
+  label: 古畫品録
+  type: section
+  level: 1
+hash: sha256:df0fc5adcb03e4de76d19ca3050a11f99234e18b6206f43bd439f395fa067b21

@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR3h0001/krp/v1
+canonical_location: https://kanripo.org/bkk/KR3h0001/krp/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 古畫品錄
+  date: '2015-08-24 23:13:29.823518'
+  source:
+    repository: kanripo
+    path: KR3h0001
+  base_edition: WYG
+  edition:
+    short: krp
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3h0001_000-krp.yaml, hash: 'sha256:04fab36da746f682b34cfdc25cea3f96cef103ffdf48c45e1085a63338dcec97'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3h0001_000-krp.markers.yaml, hash: 'sha256:0bca169e59e03c2264d9c7831d96610810918c060909293a946263799995a3f6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3h0001_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 817
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3h0001_WYG_000-5a
+    span:
+    - body
+    - 817
+    - 1964
+  label: 古畫品録
+  type: section
+  level: 1
+hash: sha256:c00a288e00717258832f5756c1c90dc4e2572977c7c05fd99c0c585d926eaac0
