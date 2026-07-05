@@ -21,9 +21,9 @@ editions:
 - short: krp
 assets:
   parts:
-  - {seq: 1, filename: KR3h0001_001.yaml, hash: 'sha256:189ec99702f4362bda06bf75d53f155459e878bb82a25c8be8433ed0145d03f2'}
+  - {seq: 1, filename: KR3h0001_001.yaml, hash: 'sha256:d96141de56759bb950e13b6d8e23277d46ec0b060fb0b396c836fda6f218dde5'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3h0001_001.markers.yaml, hash: 'sha256:c6d8b8f1773a5ee682ee13353713fabdcca01da97c31d93a0e4ca82353b63603'}
+  - {seq: 1, role: markers, filename: assets/KR3h0001_001.markers.yaml, hash: 'sha256:5562ddf9ed1bd73a4ff789a8bcccdf70337b6bbcb5ed75a931184144d19c4132'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,7 +35,4 @@ table_of_contents:
   label: 第一品五人
   type: section
   level: 1
-hash: sha256:456261d3f232b521b6f0fdf3b439700eeca08fc28d622e8e97a7c96158c20125
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4fa646e415e88ab2a34d7eb6ea11522b06280e31bfc5548d8dd2a99f9e5d5eeb
