@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3h0001/v1
 canonical_location: https://kanripo.org/bkk/KR3h0001/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 古畫品錄一卷
   identifiers:
@@ -21,9 +21,9 @@ editions:
 - short: krp
 assets:
   parts:
-  - {seq: 1, filename: KR3h0001_001.yaml, hash: 'sha256:d96141de56759bb950e13b6d8e23277d46ec0b060fb0b396c836fda6f218dde5'}
+  - {seq: 1, filename: KR3h0001_001.yaml, hash: 'sha256:79822aec36bc4bbc5ebd73d4cf6a5b2edd6a2e625b54ac3897706e2550256753'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3h0001_001.markers.yaml, hash: 'sha256:5562ddf9ed1bd73a4ff789a8bcccdf70337b6bbcb5ed75a931184144d19c4132'}
+  - {seq: 1, role: markers, filename: assets/KR3h0001_001.markers.yaml, hash: 'sha256:d0c5000f1a9c07e9416c0ffb77acc2266a4af4868833e197203e45f1264b8c2d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,4 +35,7 @@ table_of_contents:
   label: 第一品五人
   type: section
   level: 1
-hash: sha256:4fa646e415e88ab2a34d7eb6ea11522b06280e31bfc5548d8dd2a99f9e5d5eeb
+hash: sha256:d893e3269ca0b953db79a932953fa9328940ae3d48f6ed7a81c43a2d4e9dc8d7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
