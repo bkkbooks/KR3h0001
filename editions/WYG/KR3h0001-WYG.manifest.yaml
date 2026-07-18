@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3h0001_000-WYG.yaml, hash: 'sha256:12f38c0efe56a0655a60cc52739aaa00b63adca995701e0975de6e632a5db7bb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3h0001_000-WYG.markers.yaml, hash: 'sha256:b1f8d43e0a56fe3f6367a9d939f953f606b2a1c370be9c291773750a3131e59f'}
+  - {seq: 0, role: markers, filename: assets/KR3h0001_000-WYG.markers.yaml, hash: 'sha256:454b669faf123e987b265a090356316c04640a2e54d4b85a5d5333c546934457'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 古畫品録
   type: section
   level: 1
-hash: sha256:df0fc5adcb03e4de76d19ca3050a11f99234e18b6206f43bd439f395fa067b21
+hash: sha256:6c2fbcbbb1159c9bcb79aae741b8e0b8632e8719dee0d1cfa139aae35b71ea49
